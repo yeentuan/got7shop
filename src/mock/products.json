@@ -1,0 +1,44 @@
+[
+    {
+"id" : 1,
+"title": "MARK" ,
+"price" : "1400" ,
+"imgUrl" : "https://o.lnwfile.com/a0w5t3.jpg"
+},
+{
+"id" : 2,
+"title": "BAMBAM" ,
+"price" : "1450" ,
+"imgUrl" : "https://o.lnwfile.com/ic16zc.jpg"
+},
+{
+"id" : 3,
+"title": "JB" ,
+"price" : "1500" ,
+"imgUrl" : "https://o.lnwfile.com/53aqf5.jpg"
+},
+{
+"id" : 4,
+"title": "YUGYEOM" ,
+"price" : "1550" ,
+"imgUrl" : "https://o.lnwfile.com/1rxxmw.jpg"
+},
+{
+"id" : 5,
+"title": "JACKSON" ,
+"price" : "1600" ,
+"imgUrl" : "https://o.lnwfile.com/gtgewf.jpg"
+},
+{
+"id" : 6,
+"title": "YOUNGJAE" ,
+"price" : "1650" ,
+"imgUrl" : "https://o.lnwfile.com/1l2ar7.jpg"
+},
+{
+    "id" : 7,
+    "title": "JINYONG" ,
+    "price" : "1700" ,
+    "imgUrl" : "https://o.lnwfile.com/4vvn5f.jpg"
+    }
+]
